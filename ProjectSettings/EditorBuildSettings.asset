@@ -14,4 +14,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/TestGameScene.unity
     guid: d5a4d3a3846a4b8418963aedc8097b8f
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: 8115fcce97e29a54cb41a93dbf0cfe10
+  - enabled: 1
+    path: Assets/Scenes/WormMinigame.unity
+    guid: 680347be0a716d34b8591eb4e73cdd4f
   m_configObjects: {}

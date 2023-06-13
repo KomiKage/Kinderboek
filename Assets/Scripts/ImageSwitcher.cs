@@ -8,7 +8,8 @@ using UnityEngine.UI;
 public class ImageSwitcher : MonoBehaviour
 {
     RawImage m_RawImage;
-    public Texture[] m_Textures;
+    public Texture[] 
+        m_Textures;
 
     int currentImg = 0;
 
@@ -33,3 +34,4 @@ public class ImageSwitcher : MonoBehaviour
     }
 
 }
+ 
